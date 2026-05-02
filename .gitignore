@@ -209,4 +209,5 @@ __marimo__/
 # Generated CSVs from notebook/scripts
 /RussianFinancialNews/news_collection_full.csv
 /RussianFinancialNews/news_collection_old.csv
+/RussianFinancialNews/sentiment_news.ipynb
 /RussianFinancialNews/MOEX.cleaned.csv
