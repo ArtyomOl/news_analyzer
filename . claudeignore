@@ -1,0 +1,4 @@
+data/
+candles_data/
+RussianFinancialNews/candles_data/
+*.json
