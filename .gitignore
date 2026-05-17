@@ -211,3 +211,7 @@ __marimo__/
 /RussianFinancialNews/news_collection_old.csv
 /RussianFinancialNews/sentiment_news.ipynb
 /RussianFinancialNews/MOEX.cleaned.csv
+
+# Generated model artifacts (reproduced by finetune_rubert.ipynb)
+RussianFinancialNews/models/
+RussianFinancialNews/news_sentiment_rubert.parquet
